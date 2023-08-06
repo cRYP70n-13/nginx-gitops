@@ -9,9 +9,9 @@ a simple nodeJs or Golang API that has some endpoints we can test with
 
 ## TODO:
 
-[ ] - Build a simple HelloWorld nodeJs application
-[ ] - Dockerize it
-[ ] - Implement the CI pipeline along with the tests and everything
-[ ] - Tag the image and push it after successful steps
-[ ] - Kick the CD process to automatically sync it.
-[ ] - Maybe send some slack Notif in both cases Failed/Success pipeline
+- [ ] Build a simple HelloWorld nodeJs application
+- [ ] Dockerize it
+- [ ] Implement the CI pipeline along with the tests and everything
+- [ ] Tag the image and push it after successful steps
+- [ ] Kick the CD process to automatically sync it.
+- [ ] Maybe send some slack Notif in both cases Failed/Success pipeline
